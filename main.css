@@ -1,0 +1,20 @@
+#navbar {
+    text-align: end;
+}
+#navbar a {
+    font-weight: bold;
+    color:lightseagreen
+
+}
+#mleko {
+    color:fuchsia ; 
+    background-color:pink;
+}
+.row {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 100%;
+}
+.column img {
+    width: 300px;
+}
